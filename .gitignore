@@ -1,0 +1,8 @@
+/buck-out
+compile_commands.json
+.cache/
+vcpkg_installed/
+third-party/vcpkg
+
+# MacOS special files
+.DS_Store
